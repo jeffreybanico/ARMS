@@ -25,7 +25,7 @@ The primary goal of an Academic Record Management System is to enhance efficienc
 
 [User's Guide of ARMS](URL)
 
-[ARMS Manuscript](URL)
+[ARMS Manuscript](https://github.com/jeffreybanico/ARMS/blob/main/ARMS.pdf)
 
 
 
